@@ -2,4 +2,4 @@ flipkart
 void main ()
 string ()
 string2()
-string3(())
+void string3(())
