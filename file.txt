@@ -1,0 +1,24 @@
+diff --git a/README.md b/README.md
+index 67b0b33..d99504b 100644
+--- a/README.md
++++ b/README.md
+@@ -1,8 +1,4 @@
+ # flipkart
+ void main ()
+ string ()
+-string  2(
+ 
+-
+-)
+-string3()
+diff --git a/Readme.md b/Readme.md
+index cf4e402..bd8da11 100644
+--- a/Readme.md
++++ b/Readme.md
+@@ -1,6 +1,5 @@
+ flipkart
+ void main ()
+ string ()
+-pacx2()
+ void string2()
+ string string3(())
