@@ -1,5 +1,5 @@
 flipkart
 void main ()
 string ()
-string2()
+void string2()
 string string3(())
