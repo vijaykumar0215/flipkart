@@ -1,0 +1,10 @@
+void
+main
+string
+12
+33
+
+33
+
+3
+
